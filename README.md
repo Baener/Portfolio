@@ -27,8 +27,10 @@ My Projects
   1. **BIO** - головоломка/бродилка
        ![image](https://github.com/user-attachments/assets/820cc867-564d-4b86-9112-e5588dc95711)
      **Трейлер**
+
      https://drive.google.com/file/d/176fIUgUtAJZM_NDL9kklNkWZvPo56bbm/view?usp=drive_link
      **Игра**
+
      https://drive.google.com/file/d/18IqPKwfnBGCZ_z6tNNIvtDZhDvjw7R8X/view?usp=sharing
 
   2. **СимуляторБПЛА**
