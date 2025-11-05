@@ -25,7 +25,11 @@ My Projects
 **PC_GAMES**
 
   1. **BIO** - головоломка/бродилка
+
+     
        ![image](https://github.com/user-attachments/assets/820cc867-564d-4b86-9112-e5588dc95711)
+
+
      **Трейлер**
 
      https://drive.google.com/file/d/176fIUgUtAJZM_NDL9kklNkWZvPo56bbm/view?usp=drive_link
@@ -33,7 +37,7 @@ My Projects
 
      https://drive.google.com/file/d/18IqPKwfnBGCZ_z6tNNIvtDZhDvjw7R8X/view?usp=sharing
 
-  2. **СимуляторБПЛА**
+  3. **СимуляторБПЛА**
      ![image](https://github.com/user-attachments/assets/390f41b3-f4f3-4a59-8ad4-23bf92b65403)
      ![image](https://github.com/user-attachments/assets/9f711179-a449-4235-ac4a-c7f4dab10757)
 
