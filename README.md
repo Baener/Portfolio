@@ -39,7 +39,7 @@ My Projects
 
      https://drive.google.com/file/d/18IqPKwfnBGCZ_z6tNNIvtDZhDvjw7R8X/view?usp=sharing
 
-  2. **Arcane Guardians** - roguelike-шутер от третьего лица
+  2. **Arcane Guardians** - roguelike-шутер от третьего лица - **Unreal Engine**
      <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/72c840aa-9540-4991-8e65-6f8558b5300f" />
      <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4302bb54-2537-4a78-8f8d-aba309f556d3" />
 
