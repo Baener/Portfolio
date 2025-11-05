@@ -46,18 +46,13 @@ My Projects
      **Игра**
      https://drive.google.com/file/d/1prN2QPPkkW2ggC15_gsHoy47uUcGuiB-/view?usp=sharing
 
-  4. **СимуляторБПЛА** - **Unreal Engine**
-     ![image](https://github.com/user-attachments/assets/390f41b3-f4f3-4a59-8ad4-23bf92b65403)
-     ![image](https://github.com/user-attachments/assets/9f711179-a449-4235-ac4a-c7f4dab10757)
 
-     **Игра**
-     https://drive.google.com/file/d/1-k3HwT_Oj_AQe5fA5MZAD_Eoe-E-qMwU/view?usp=sharing
-
-  5. **TowerDefense** - **Unity**
+  4. **TowerDefense** - **Unity**
       <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7adee39c-4817-455e-867d-cd95b4ed6317" />
       <img width="1125" height="584" alt="image" src="https://github.com/user-attachments/assets/c2a118eb-7638-4a04-b164-d7b85f35d7c7" />
 
       **Игра**
       https://cloud.mail.ru/public/wogy/r8ynawmTa
+
 
 
